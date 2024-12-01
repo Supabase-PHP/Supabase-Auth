@@ -1,4 +1,6 @@
 <?php
+declare(strict_types=1);
+
 namespace Supabase\Auth;
 
 class Auth {
@@ -7,3 +9,4 @@ class Auth {
 //on "public"."users"
 //for select using (true);
 }
+
